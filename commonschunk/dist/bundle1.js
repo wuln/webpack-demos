@@ -1,0 +1,1 @@
+webpackJsonp([1],{6:function(e,n,t){"use strict";var l=t(0);t(5).render(l.createElement("h1",null,"Hello World"),document.getElementById("a"))}},[6]);
